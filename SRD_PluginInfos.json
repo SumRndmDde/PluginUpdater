@@ -1,4 +1,5 @@
 {
+"SumRndmDde Super Tools Engine": [1.11, "SRD_SuperToolsEngine", "http://sumrndm.site/super-tools-engine/"],
 "SumRndmDde Active Defense Core": [1.10, "SRD_ActiveDefenseCore", "http://sumrndm.site/active-defense-core/"],
 "SumRndmDde Active Defense Charge": [1.00, "SRD_ActiveDefenseCharge", "http://sumrndm.site/active-defense-charge/"],
 "SumRndmDde Actor Select": [1.00, "SRD_ActorSelect", "http://sumrndm.site/actor-select/"],
@@ -58,7 +59,6 @@
 "SumRndmDde State Popups": [1.02, "SRD_StatePopups", "http://sumrndm.site/state-popups/"],
 "SumRndmDde Summon Battler Images": [1.00, "SRD_SummonBattlerImages", "http://sumrndm.site/summon-battler-images/"],
 "SumRndmDde Summon Core": [1.05, "SRD_SummonCore", "http://sumrndm.site/summon-core/"],
-"SumRndmDde Super Tools Engine": [1.10, "SRD_SuperToolsEngine", "http://sumrndm.site/super-tools-engine/"],
 "SumRndmDde Swipe Input": [1.00, "SRD_SwipeInput", "http://sumrndm.site/swipe-input/"],
 "SumRndmDde Switch Shop": [1.01, "SRD_SwitchShop", "http://sumrndm.site/switch-shop/"],
 "SumRndmDde Timed Attack Core": [1.21, "SRD_TimedAttackCore", "http://sumrndm.site/timed-attack-core/"],
