@@ -8,7 +8,7 @@
 <p style="text-align: center;"><span style="font-size:20px;"><strong>Super Tools Engine</strong></span><br />
 <u><em>Version 1.10 Update</em></u></p>
 <blockquote>
-	<p>Ability to Reset Menus (<em>Menu Editor</em>)<br />
+	<p>Added the ability to reset menus (<em>Menu Editor</em>)<br />
 	Added &quot;Opacity&quot; (<em>Menu Editor</em>)<br />
 	Added &quot;Line Height&quot; (<em>Menu Editor</em>)<br />
 	Ability to add/remove Actors from party (<em>Debug Tool</em>)<br />
