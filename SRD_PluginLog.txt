@@ -1,6 +1,5 @@
 <p style="text-align: center;"><span style="font-size:20px;"><strong>Super Tools Engine</strong></span><br />
-<u><em>Version 1.11 Update</em></u><br />
-&nbsp;</p>
+<u><em>Version 1.11 Update</em></u></p>
 <ul>
 <li>Ability to Reset Menus (<em>Menu Editor</em>)</li>
 <li>Added &quot;Opacity&quot; input (<em>Menu Editor</em>)</li>
