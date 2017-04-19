@@ -1,3 +1,9 @@
+<p style="text-align: center;"><span style="font-size:20px;"><strong>Stat Distribution</strong></span><br />
+<u><em>Version 1.02 Update</em></u></p>
+<blockquote>
+	<p>Rewrote option list for extension compatibility</p>
+</blockquote>
+<hr />
 <p style="text-align: center;"><span style="font-size:20px;"><strong>Super Tools Engine</strong></span><br />
 <u><em>Version 1.13 Update</em></u></p>
 <blockquote>
