@@ -1,4 +1,10 @@
 <p style="text-align: center;"><span style="font-size:20px;"><strong>Super Tools Engine</strong></span><br />
+<u><em>Version 1.13 Update</em></u></p>
+<blockquote>
+	<p>Fixed style inconsistency with drop down features</p>
+</blockquote>
+<hr />
+<p style="text-align: center;"><span style="font-size:20px;"><strong>Super Tools Engine</strong></span><br />
 <u><em>Version 1.12 Update</em></u></p>
 <blockquote>
 	<p>Added custom scroll bar styling and theme compatibility</p>
