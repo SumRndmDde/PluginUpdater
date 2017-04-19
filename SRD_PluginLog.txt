@@ -1,4 +1,10 @@
 <p style="text-align: center;"><span style="font-size:20px;"><strong>Super Tools Engine</strong></span><br />
+<u><em>Version 1.12 Update</em></u></p>
+<blockquote>
+	<p>Added custom scroll bar styling and theme compatibility</p>
+</blockquote>
+<hr />
+<p style="text-align: center;"><span style="font-size:20px;"><strong>Super Tools Engine</strong></span><br />
 <u><em>Version 1.11 Update</em></u></p>
 <blockquote>
 	<p>Added &quot;Fullmetal Alchemist&quot; theme<br />
