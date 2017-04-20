@@ -1,3 +1,9 @@
+<p style="text-align: center;"><span style="font-size:20px;"><strong>Preloader Core</strong></span><br />
+<u><em>Version 1.02 Update</em></u></p>
+<blockquote>
+	<p> - Fixed problems with encrypted projects</p>
+</blockquote>
+<hr />
 <p style="text-align: center;"><span style="font-size:20px;"><strong>Super Tools Engine</strong></span><br />
 <u><em>Version 1.14 Update</em></u></p>
 <blockquote>
