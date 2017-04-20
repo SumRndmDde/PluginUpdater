@@ -1,10 +1,10 @@
 [
-['Preloader Core', '1.02', 'Fixed problems with encrypted projects'],
-['Super Tools Engine', '1.14', 'Added notification for updating YEP_PartySystem.js to a compatible version'],
-['Stat Distribution', '1.02', 'Rewrote option list for extension compatibility'],
-['Super Tools Engine', '1.13', 'Fixed style inconsistency with drop down features'],
-['Super Tools Engine', '1.12', 'Added custom scroll bar styling and theme compatibility'],
-['Super Tools Engine', '1.11', 'Added &quot;Fullmetal Alchemist&quot; theme', 'Rewrote launcher button functionality to fit with Plugin Updater tool'],
-['Super Tools Engine', '1.10', 'Added the ability to reset menus (<em>Menu Editor</em>)', 'Added &quot;Opacity&quot; (<em>Menu Editor</em>)', 'Added &quot;Line Height&quot; (<em>Menu Editor</em>)', 'Ability to add/remove Actors from party (<em>Debug Tool</em>)', 'Overflow capability added to Tool Launcher'],
-['Super Tools Engine', '1.05', 'Fixed loading lag by deleting global data']
+["Preloader Core", "1.02", "Fixed problems with encrypted projects"],
+["Super Tools Engine", "1.14", "Added notification for updating YEP_PartySystem.js to a compatible version"],
+["Stat Distribution", "1.02", "Rewrote option list for extension compatibility"],
+["Super Tools Engine", "1.13", "Fixed style inconsistency with drop down features"],
+["Super Tools Engine", "1.12", "Added custom scroll bar styling and theme compatibility"],
+["Super Tools Engine", "1.11", "Added &quot;Fullmetal Alchemist&quot; theme", "Rewrote launcher button functionality to fit with Plugin Updater tool"],
+["Super Tools Engine", "1.10", "Added the ability to reset menus (<em>Menu Editor</em>)", "Added &quot;Opacity&quot; (<em>Menu Editor</em>)", "Added &quot;Line Height&quot; (<em>Menu Editor</em>)", "Ability to add/remove Actors from party (<em>Debug Tool</em>)", "Overflow capability added to Tool Launcher"],
+["Super Tools Engine", "1.05", "Fixed loading lag by deleting global data"]
 ]
