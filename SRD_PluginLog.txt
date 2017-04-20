@@ -1,6 +1,8 @@
 [
+["Plugin Updater", "1.10", "Added filter system for update log", "Links now open in PC's default browser"],
 ["Preloader Core", "1.02", "Fixed problems with encrypted projects"],
 ["Super Tools Engine", "1.14", "Added notification for updating YEP_PartySystem.js to a compatible version"],
+["Plugin Updater", "1.01", "Fixed some random bug"],
 ["Stat Distribution", "1.02", "Rewrote option list for extension compatibility"],
 ["Super Tools Engine", "1.13", "Fixed style inconsistency with drop down features"],
 ["Super Tools Engine", "1.12", "Added custom scroll bar styling and theme compatibility"],
