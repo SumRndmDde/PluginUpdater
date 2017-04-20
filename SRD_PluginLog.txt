@@ -1,46 +1,46 @@
 <p style="text-align: center;"><span style="font-size:20px;"><strong>Super Tools Engine</strong></span><br />
 <u><em>Version 1.14 Update</em></u></p>
 <blockquote>
-	<p>\u21D2Added notification for updating YEP_PartySystem.js to a compatible version</p>
+	<p> - Added notification for updating YEP_PartySystem.js to a compatible version</p>
 </blockquote>
 <hr />
 <p style="text-align: center;"><span style="font-size:20px;"><strong>Stat Distribution</strong></span><br />
 <u><em>Version 1.02 Update</em></u></p>
 <blockquote>
-	<p>\u21D2Rewrote option list for extension compatibility</p>
+	<p> - Rewrote option list for extension compatibility</p>
 </blockquote>
 <hr />
 <p style="text-align: center;"><span style="font-size:20px;"><strong>Super Tools Engine</strong></span><br />
 <u><em>Version 1.13 Update</em></u></p>
 <blockquote>
-	<p>\u21D2Fixed style inconsistency with drop down features</p>
+	<p> - Fixed style inconsistency with drop down features</p>
 </blockquote>
 <hr />
 <p style="text-align: center;"><span style="font-size:20px;"><strong>Super Tools Engine</strong></span><br />
 <u><em>Version 1.12 Update</em></u></p>
 <blockquote>
-	<p>\u21D2Added custom scroll bar styling and theme compatibility</p>
+	<p> - Added custom scroll bar styling and theme compatibility</p>
 </blockquote>
 <hr />
 <p style="text-align: center;"><span style="font-size:20px;"><strong>Super Tools Engine</strong></span><br />
 <u><em>Version 1.11 Update</em></u></p>
 <blockquote>
-	<p>\u21D2Added &quot;Fullmetal Alchemist&quot; theme<br />
-	\u21D2Rewrote launcher button functionality to fit with Plugin Updater tool</p>
+	<p> - Added &quot;Fullmetal Alchemist&quot; theme<br />
+	 - Rewrote launcher button functionality to fit with Plugin Updater tool</p>
 </blockquote>
 <hr />
 <p style="text-align: center;"><span style="font-size:20px;"><strong>Super Tools Engine</strong></span><br />
 <u><em>Version 1.10 Update</em></u></p>
 <blockquote>
-	<p>\u21D2Added the ability to reset menus (<em>Menu Editor</em>)<br />
-	\u21D2Added &quot;Opacity&quot; (<em>Menu Editor</em>)<br />
-	\u21D2Added &quot;Line Height&quot; (<em>Menu Editor</em>)<br />
-	\u21D2Ability to add/remove Actors from party (<em>Debug Tool</em>)<br />
-	\u21D2Overflow capability added to Tool Launcher</p>
+	<p> - Added the ability to reset menus (<em>Menu Editor</em>)<br />
+	 - Added &quot;Opacity&quot; (<em>Menu Editor</em>)<br />
+	 - Added &quot;Line Height&quot; (<em>Menu Editor</em>)<br />
+	 - Ability to add/remove Actors from party (<em>Debug Tool</em>)<br />
+	 - Overflow capability added to Tool Launcher</p>
 </blockquote>
 <hr />
 <p style="text-align: center;"><span style="font-size:20px;"><strong>Super Tools Engine</strong></span><br />
 <u><em>Version 1.05 Update</em></u></p>
 <blockquote>
-	<p>\u21D2Fixed loading lag by deleting global data</p>
+	<p> - Fixed loading lag by deleting global data</p>
 </blockquote>
