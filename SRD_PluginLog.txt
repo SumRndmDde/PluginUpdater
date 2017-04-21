@@ -1,4 +1,5 @@
 [
+["Super Tools Engine", "1.15", "Quick save and game reload save files now clean their backups"],
 ["Plugin Updater", "1.10", "Added filter system for update log", "Links now open in PC's default browser"],
 ["Preloader Core", "1.02", "Fixed problems with encrypted projects"],
 ["Super Tools Engine", "1.14", "Added notification for updating YEP_PartySystem.js to a compatible version"],
