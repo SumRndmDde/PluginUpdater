@@ -1,4 +1,5 @@
 [
+["HUD Maker", "1.10", "Now a separate HUD can be built in battles!", "Added transparency/hiding options for HUD during events", "Fixed highlight not moving to new piece"],
 ["Stat Distribution", "1.06", "Fixed check for Super Tools Engine"],
 ["Stat Distribution", "1.05", "Added ability to disable command from the menu"],
 ["Stat Distribution", "1.04", "Fixed compatibility with Alt Menu Screens"],
