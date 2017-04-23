@@ -1,4 +1,5 @@
 [
+["HUD Maker", "1.11", "Added error catching for all custom JavaScript inputs", "Fixed window and HUD layering within battles; HUD now goes below windows"],
 ["Plugin Updater", "1.11", "Added &quot;Installed Only&quot; filter to view updates for plugins specifically installed in the project", "Plugins in filter selection are now in alphabetical order", "Filter list's abstract options now surrounded with brackets", "Filter list now includes a space for separation"],
 ["HUD Maker", "1.10", "Now a separate HUD can be built in battles!", "Added transparency/hiding options for HUD during events", "Fixed highlight not moving to new piece"],
 ["Stat Distribution", "1.06", "Fixed check for Super Tools Engine"],
