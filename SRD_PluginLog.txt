@@ -1,5 +1,5 @@
 [
-["HUD Maker", "1.12", "Reverted highlight into its original mechanical format", "Fixed battle event conditions for HUD visibility"],
+["HUD Maker", "1.12", "Added option to remove HUD pieces with &quot;false&quot; condition when editting", "Reverted highlight into its original mechanical format", "Fixed battle event conditions for HUD visibility"],
 ["Menu Backgrounds", "2.05", "Now checks for WindowLayer before applying opacity to windows"],
 ["HUD Maker", "1.11", "Added error catching for all custom JavaScript inputs", "Fixed window and HUD layering within battles; HUD now goes below windows"],
 ["Plugin Updater", "1.11", "Added &quot;Installed Only&quot; filter to view updates for plugins specifically installed in the project", "Plugins in filter selection are now in alphabetical order", "Filter list's abstract options now surrounded with brackets", "Filter list now includes a space for separation"],
