@@ -1,4 +1,5 @@
 [
+["HUD Maker", "1.13", "Fixed battle event conditions for HUD visibility (for real this time!!)"],
 ["HUD Maker", "1.12", "Added option to remove HUD pieces with &quot;false&quot; condition when editting", "Reverted highlight into its original mechanical format", "Fixed battle event conditions for HUD visibility"],
 ["Menu Backgrounds", "2.05", "Now checks for WindowLayer before applying opacity to windows"],
 ["HUD Maker", "1.11", "Added error catching for all custom JavaScript inputs", "Fixed window and HUD layering within battles; HUD now goes below windows"],
