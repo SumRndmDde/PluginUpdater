@@ -1,4 +1,5 @@
 [
+["Credits Plugin", "1.01", "Fixed compatibility issue with Menu Backgrounds by changing credits scene into a Scene_MenuBase"],
 ["HUD Maker", "1.16", "Fixed &quot;link&quot; system to function with .JSON format"],
 ["HUD Maker", "1.15", "Resolved deselection issues after deletion", "Fixed highlight layering issues"],
 ["HUD Maker", "1.14", "Finished &quot;Resources&quot; tab; content can now be obtained and displayed from online!"],
