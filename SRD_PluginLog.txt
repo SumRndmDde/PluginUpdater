@@ -1,4 +1,5 @@
 [
+["Super Tools Engine", "1.20", "Added &quot;Menu Editor Ban List&quot; Parameter: Specific windows can now be banned from the Menu Editor in order to not cause confusion and annoyance.", "Menu Editor now works with scenes that have multiple instances of the same window class"],
 ["HUD Maker", "1.17", "Fixed deployed game crash"],
 ["Credits Plugin", "1.01", "Fixed compatibility issue with Menu Backgrounds by changing credits scene into a Scene_MenuBase"],
 ["HUD Maker", "1.16", "Fixed &quot;link&quot; system to function with .JSON format"],
