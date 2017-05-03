@@ -1,4 +1,5 @@
 [
+["Super Tools Engine", "1.22", "Fixed &quot;getWindowCode&quot; function to work in deployed games"],
 ["Super Tools Engine", "1.21", "Added exception for Scene_ItemBase's &quot;showSubWindow&quot; function when given a window affected by the Menu Editor"],
 ["Super Tools Engine", "1.20", "Added &quot;Menu Editor Ban List&quot; Parameter: Specific windows can now be banned from the Menu Editor in order to not cause confusion and annoyance.", "Menu Editor now works with scenes that have multiple instances of the same window class"],
 ["HUD Maker", "1.17", "Fixed deployed game crash"],
