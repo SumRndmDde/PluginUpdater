@@ -1,4 +1,6 @@
 [
+["Skill Extender", "1.02", "Added ability to have extend skill descriptions appear on Help Window"],
+["HUD Maker", "1.30", "Global conditions can now be set up for both the Map HUD and Battle HUD", "Fixed selection reset upon element deletion", "Options will now update themselves to the currently stored value when returning to the main page", "Snap mode persists between element focus shift", "Gauge back color opacity no longer starts undefined", "Actor Face element now supports Character Creator custom faces", "Fixed incompatibility for platforms without NodeJS support", "Fixed \\c code for TextEx element", "Added minor laying tweaks"],
 ["Super Tools Engine", "1.22", "Fixed &quot;getWindowCode&quot; function to work in deployed games"],
 ["Super Tools Engine", "1.21", "Added exception for Scene_ItemBase's &quot;showSubWindow&quot; function when given a window affected by the Menu Editor"],
 ["Super Tools Engine", "1.20", "Added &quot;Menu Editor Ban List&quot; Parameter: Specific windows can now be banned from the Menu Editor in order to not cause confusion and annoyance.", "Menu Editor now works with scenes that have multiple instances of the same window class"],
