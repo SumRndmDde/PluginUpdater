@@ -1,4 +1,5 @@
 [
+["HUD Maker", "1.31", "Removed &quot;Tutorial&quot; tab due to YouTube playlist crashing the HUD Maker"],
 ["Skill Extender", "1.02", "Added ability to have extend skill descriptions appear on Help Window"],
 ["HUD Maker", "1.30", "Global conditions can now be set up for both the Map HUD and Battle HUD", "Fixed selection reset upon element deletion", "Options will now update themselves to the currently stored value when returning to the main page", "Snap mode persists between element focus shift", "Gauge back color opacity no longer starts undefined", "Actor Face element now supports Character Creator custom faces", "Fixed incompatibility for platforms without NodeJS support", "Fixed \\c code for TextEx element", "Added minor laying tweaks"],
 ["Super Tools Engine", "1.22", "Fixed &quot;getWindowCode&quot; function to work in deployed games"],
