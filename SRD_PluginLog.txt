@@ -1,6 +1,6 @@
 [
 ["HUD Maker", "1.34", "Added &quot;mtp&quot; properties to battlers in order to fix error from video tutorials"],
-["HUD Maker", "1.33", "Remember last update when I said I fixed compatibility for MV projects below version 1.3.0?", "Well, I lied. Actor Face masking functions do not work with verions below 1.3.0", "Added check to deny usage if the developer's project is below the required version (sorry ;-;)"],
+["HUD Maker", "1.33", "Remember last update when I said I fixed compatibility for MV projects below version 1.3.0? Well, I lied. Actor Face masking functions do not work with verions below 1.3.0. As a result, a check to deny usage if the developer's project is below the required version has been added"],
 ["HUD Maker", "1.32", "Fixed compatibility with MV projects below version 1.3.0"],
 ["Stat Distribution", "1.07", "Fixed Level Up Message to display the point gained at the moment"],
 ["Skill Extender", "1.03", "Help Window will now display extend skill descriptions in Scene_Skill also"],
