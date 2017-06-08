@@ -1,4 +1,5 @@
 [
+["HUD Maker", "1.40", "HUD Maker works with MV v1.5.0!", "There is now an option to have HUD pieces be automatically updated whenever their properties are editted in the editor!", "Delete key shortcut can now be disabled!", "Fixed filter options not being saved", "Radical fixed and is now Radial", "Gauge, Back Color Opacity fixed!", "Gauge, Outline Color Opacity fixed!", "Control list fixed: set to Right-Click", "Picture error handling", "Actor Face should now update!"],
 ["Skill Extender", "1.04", "Added a parameter to set the max amount of visible rows"],
 ["Actor Select", "1.01", "Fixed game breaking bug"],
 ["HUD Maker", "1.34", "Added &quot;mtp&quot; properties to battlers in order to fix error from video tutorials"],
