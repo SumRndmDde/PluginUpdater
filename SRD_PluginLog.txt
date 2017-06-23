@@ -1,5 +1,7 @@
 [
-["Core Core", "1.01", "Now compatible with all MV versions 1.3.0 and greater", "Added ability to disable custom color system", "Added ability to disable reconstruction system"],
+["Screen Scale Option", "1.02", "Set to be compatible with Game Upgrade"],
+["Game Upgrade", "1.02", "Renamed to &quot;Game Upgrade&quot;"],
+["Game Upgrade", "1.01", "Now compatible with all MV versions 1.3.0 and greater", "Added ability to disable custom color system", "Added ability to disable reconstruction system"],
 ["Screen Scale Option", "1.01", "Fixed requirement check for Core Core"],
 ["Super Tools Engine", "1.23", "Added compatibility for Core Core plugin"],
 ["HUD Maker", "1.40", "HUD Maker works with MV v1.5.0!", "There is now an option to have HUD pieces be automatically updated whenever their properties are editted in the editor!", "Delete key shortcut can now be disabled!", "Fixed filter options not being saved", "Radical fixed and is now Radial", "Gauge, Back Color Opacity fixed!", "Gauge, Outline Color Opacity fixed!", "Control list fixed: set to Right-Click", "Picture error handling", "Actor Face should now update!"],
