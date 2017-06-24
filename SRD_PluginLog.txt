@@ -1,4 +1,5 @@
 [
+["Super Tools Engine", "1.24", "Updated parameters for MV v1.5.0!", "Added compatibility for Game Upgrade plugin"],
 ["Screen Scale Option", "1.02", "Set to be compatible with Game Upgrade"],
 ["Game Upgrade", "1.02", "Renamed to &quot;Game Upgrade&quot;"],
 ["Game Upgrade", "1.01", "Now compatible with all MV versions 1.3.0 and greater", "Added ability to disable custom color system", "Added ability to disable reconstruction system"],
