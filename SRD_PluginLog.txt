@@ -1,4 +1,6 @@
 [
+["Game Upgrade", "1.11", "Fixed Minimum Window size parameter"],
+["Game Upgrade", "1.10", "Stripped of some of its features to be used for other plugins"],
 ["HUD Maker", "1.41", "Now compatible with browser and mobile exports"],
 ["Super Tools Engine", "1.24", "Updated parameters for MV v1.5.0!", "Added compatibility for Game Upgrade plugin"],
 ["Screen Scale Option", "1.02", "Set to be compatible with Game Upgrade"],
