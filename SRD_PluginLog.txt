@@ -1,4 +1,5 @@
 [
+["Super Tools Engine", "1.25", "Added check to inform developers about parameter change", "Added check for NWJS before preforming related functions"],
 ["Game Upgrade", "1.20", "Added &quot;HTML Settings&quot; parameter section", "Added &quot;Background Color&quot; parameter", "Added &quot;Image Rendering&quot; parameter", "Included default values in some of the parameters' descriptions"],
 ["Game Upgrade", "1.11", "Fixed Minimum Window size parameter"],
 ["Game Upgrade", "1.10", "Stripped of some of its features to be used for other plugins"],
