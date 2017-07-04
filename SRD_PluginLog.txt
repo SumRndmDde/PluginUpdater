@@ -1,4 +1,5 @@
 [
+["Battle Status Customizer", "1.07", "Fixed persistent highlighting bug; credit to YoraeRasante for this fix!!!"],
 ["Super Tools Engine", "1.25", "Added check to inform developers about parameter change", "Added check for NWJS before preforming related functions"],
 ["Game Upgrade", "1.20", "Added &quot;HTML Settings&quot; parameter section", "Added &quot;Background Color&quot; parameter", "Added &quot;Image Rendering&quot; parameter", "Included default values in some of the parameters' descriptions"],
 ["Game Upgrade", "1.11", "Fixed Minimum Window size parameter"],
