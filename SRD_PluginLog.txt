@@ -1,5 +1,5 @@
 [
-["Credits", "1.11", "URLs are now opened through browser if possible", "Added parameter for defining credit list window width"]
+["Credits", "1.11", "URLs are now opened through browser if possible", "Added parameter for defining credit list window width"],
 ["Credits", "1.10", "Removed file-reading system and replaced with parameter structure", "Other parameters updated to 1.5.0"],
 ["Preloader Core", "1.10", "Now compatible with MV version 1.5.0", "Parameters updated to 1.5.0", "Remember to update your parameters!"],
 ["Window Upgrade", "1.01", "Upgraded the plugin further"],
