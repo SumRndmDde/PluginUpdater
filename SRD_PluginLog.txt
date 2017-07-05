@@ -1,4 +1,5 @@
 [
+["Plugin Updater", "1.21", "Fixed tool description"],
 ["Game Upgrade", "1.21", "Now compatible with all versions of MV!"],
 ["Title Picture Choices", "1.10", "Parameters updated to 1.5.0"],
 ["Title Command Customizer", "1.10", "Parameters updated to 1.5.0", "Added error catching to evaluations", "Added check to make sure the IconSet is loaded"],
