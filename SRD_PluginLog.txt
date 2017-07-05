@@ -1,4 +1,7 @@
 [
+["Game Upgrade", "1.21", "Now compatible with all versions of MV!"],
+["Title Picture Choices", "1.10", "Parameters updated to 1.5.0"],
+["Title Command Customizer", "1.10", "Parameters updated to 1.5.0", "Added error catching to evaluations", "Added check to make sure the IconSet is loaded"],
 ["Plugin Updater", "1.20", "Switched plugin to read from new data file", "Plugin will no longer crash game if error occurs from parsing online data", "Added checks to let the developer know if an error has occured"],
 ["Credits", "1.11", "URLs are now opened through browser if possible", "Added parameter for defining credit list window width"],
 ["Credits", "1.10", "Removed file-reading system and replaced with parameter structure", "Other parameters updated to 1.5.0"],
