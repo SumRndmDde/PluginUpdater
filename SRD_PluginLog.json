@@ -1,4 +1,5 @@
 [
+["Super Tools Engine", "1.30", "Updated for RPG Maker MV 1.6.0.", "This should also fix related plugins such as HUD Maker automatically."],
 ["Character Creator EX", "1.03", "Fixed documentation"],
 ["Character Creator EX", "1.02", "Added quick check to avoid game crashing bug"],
 ["HUD Maker", "1.42", "Fixed compatibility with Character Creator EX"],
