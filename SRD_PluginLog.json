@@ -1,6 +1,6 @@
 [
-["Translation Engine", "1.01", "Updated for RPG Maker MV 1.6.0 by accommodating for newer NWjs functions and syntax.", "Fixed HELP section to fit within 1.5.0 Plugin Manager", "Reformed to fit better with personal coding syntax"],
-["Super Tools Engine", "1.30", "Updated for RPG Maker MV 1.6.0 by accommodating for newer NWjs functions and syntax.", "This should also fix related plugins such as HUD Maker automatically."],
+["Translation Engine", "1.01", "Updated for RPG Maker MV 1.6.0 by accommodating for newer NWjs functions and syntax", "Fixed HELP section to fit within 1.5.0 Plugin Manager", "Reformed to fit better with personal coding syntax"],
+["Super Tools Engine", "1.30", "Updated for RPG Maker MV 1.6.0 by accommodating for newer NWjs functions and syntax", "This should also fix related plugins such as HUD Maker automatically"],
 ["Character Creator EX", "1.03", "Fixed documentation"],
 ["Character Creator EX", "1.02", "Added quick check to avoid game crashing bug"],
 ["HUD Maker", "1.42", "Fixed compatibility with Character Creator EX"],
