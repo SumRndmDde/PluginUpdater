@@ -1,4 +1,5 @@
 [
+["Game Upgrade", "1.30", "Compatible with MV 1.6.0.", "When using 1.6.0+, Game Upgrade will modify the package.json file as opposed to reconstructing the game. This requires a manual restart, but no long uses any automatic restarting."],
 ["Translation Engine", "1.01", "Updated for RPG Maker MV 1.6.0 by accommodating for newer NWjs functions and syntax", "Fixed HELP section to fit within 1.5.0 Plugin Manager", "Reformed to fit better with personal coding syntax"],
 ["Super Tools Engine", "1.30", "Updated for RPG Maker MV 1.6.0 by accommodating for newer NWjs functions and syntax", "This should also fix related plugins such as HUD Maker automatically"],
 ["Character Creator EX", "1.03", "Fixed documentation"],
