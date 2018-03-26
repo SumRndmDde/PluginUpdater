@@ -1,4 +1,5 @@
 [
+["Game Upgrade", "1.31", "Waynee told me that there was a problem with Game Upgrade and 1.5.0. So I fixed it and stuff and now it's great or whatever. Watching Game Grumps also. Arin getting rekt in Trap Adventure 2. It's kinda funny. Anyway bye, I guess.],
 ["Translation Engine", "1.02", "Fixed fatal bug &quot;Cannot read property '_forcedTranslation' of null&quot;"],
 ["Game Upgrade", "1.30", "Compatible with MV 1.6.0.", "When using 1.6.0+, Game Upgrade will modify the package.json file as opposed to reconstructing the game. This requires a manual restart, but no long uses any automatic restarting."],
 ["Translation Engine", "1.01", "Updated for RPG Maker MV 1.6.0 by accommodating for newer NWjs functions and syntax", "Fixed HELP section to fit within 1.5.0 Plugin Manager", "Reformed to fit better with personal coding syntax"],
