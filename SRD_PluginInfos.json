@@ -1,5 +1,5 @@
 {
-"SumRndmDde Translation Engine": [1.02, "SRD_TranslationEngine", "http://sumrndm.site/translation-engine/"],
+"SumRndmDde Translation Engine": [1.03, "SRD_TranslationEngine", "http://sumrndm.site/translation-engine/"],
 "SumRndmDde Window Upgrade": [1.01, "SRD_WindowUpgrade", "http://sumrndm.site/window-upgrade/"],
 "SumRndmDde CCEX Dynamic Actors": [1.00, "SRD_CCEX_DynamicActors", "http://sumrndm.site/ccex-dynamic-actors/"],
 "SumRndmDde CCEX Message Faces": [1.00, "SRD_CCEX_MessageFaces", "http://sumrndm.site/ccex-message-faces/"],
@@ -10,7 +10,7 @@
 "SumRndmDde Stat Distribution": [1.07, "SRD_StatDistribution", "http://sumrndm.site/stat-distribution/"],
 "SumRndmDde HUD Maker": [1.42, "SRD_HUDMaker", "http://sumrndm.site/hud-maker/"],
 "SumRndmDde Plugin Updater": [1.21, "SRD_PluginUpdater", "http://sumrndm.site/plugin-updater/"],
-"SumRndmDde Super Tools Engine": [1.30, "SRD_SuperToolsEngine", "http://sumrndm.site/super-tools-engine/"],
+"SumRndmDde Super Tools Engine": [1.31, "SRD_SuperToolsEngine", "http://sumrndm.site/super-tools-engine/"],
 "SumRndmDde Active Defense Core": [1.10, "SRD_ActiveDefenseCore", "http://sumrndm.site/active-defense-core/"],
 "SumRndmDde Active Defense Charge": [1.00, "SRD_ActiveDefenseCharge", "http://sumrndm.site/active-defense-charge/"],
 "SumRndmDde Actor Select": [1.01, "SRD_ActorSelect", "http://sumrndm.site/actor-select/"],
