@@ -1,4 +1,7 @@
 [
+["Options Upgrade", "1.02","Added more parameters for further customization."],
+["Gold Window Customizer", "1.06","Added additional localization configurations."],
+["Summon Core", "1.06","Actors now gain skills they should have at level spawned at."],
 ["Super Tools Engine", "1.31","Now compatible with projects below 1.5.0 that are using an MV editor at version 1.6.0 or above."],
 ["Translation Engine", "1.03","Fixed plugin commands.","Now compatible with projects below 1.5.0 that are using an MV editor at version 1.6.0 or above."],
 ["Game Upgrade", "1.32", "This was broken cause of Liquidize. Focus all your hate onto him. Thanks. ;)"],
